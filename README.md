@@ -24,18 +24,13 @@ V1/V2 = e [ -a (L1+L2 ) ]
 - Bend fiber and record output vs diameter  
 
 **Tabulation:**
+![o2](https://github.com/user-attachments/assets/c5821e71-f70e-42e8-b6b0-cf902770eeea)
 
-### Propagation Loss
 
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|---------------------|------------------------|
-|              |                     |                        |
+## Calculation:
+![o21](https://github.com/user-attachments/assets/41f74b9d-4d8f-4542-b523-ec49b0f1cb3e)
 
-### Bending Loss
 
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|---------------------|------------------------|
-|                  |                     |                        |
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
